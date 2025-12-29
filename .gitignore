@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Data (NEVER PUSH) ---
+data/
+*.zip
+*.csv
+*.parquet
+*.npy
+*.md5
+
+# --- Models (Usually too big) ---
+models/
+*.pkl
+*.h5
+*.joblib
+
+# --- Environment ---
+.env
+.venv
+env/
+
+.Identifier
