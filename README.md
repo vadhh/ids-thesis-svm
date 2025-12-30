@@ -80,4 +80,4 @@ python src/train_model.py --kernel rbf --components 15
 Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A. (2018). Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization.
 Jolliffe, I. T. (2002). Principal Component Analysis.
 ```
-Author: vadhh Bachelor Thesis - 7th Semester
+Author: vadhh Bachelor Thesis
